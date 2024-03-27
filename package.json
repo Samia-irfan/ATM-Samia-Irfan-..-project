@@ -1,0 +1,20 @@
+{
+  "name": "@samia_irfan/atm_samia_irfan_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Samia Irfan",
+  "license": "MIT",
+  "Dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  }
+}
